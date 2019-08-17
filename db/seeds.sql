@@ -1,4 +1,4 @@
-use burgers_db;
+use esnndb682o2ahp8t;
 
 insert into burgers (name, devoured)
 values 
