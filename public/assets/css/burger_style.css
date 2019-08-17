@@ -1,5 +1,5 @@
 body {
-  margin: 50px;
+  margin: 20px;
   background: url("../img/food.png");
 }
 
@@ -32,17 +32,17 @@ li {
 
   .notDevoured {
     float: left;
-    padding: 10px;
+    padding: 30px;
   }
 
   .addBurger {
     float: left;
-    padding: 10px;
+    padding: 30px;
   }
 
   .devouredBurgers {
 float: left;
-padding: 10px;
+padding: 30px;
   }
 
   .centerBurgers {
