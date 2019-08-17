@@ -1,4 +1,4 @@
-drop database if exists burgers_db;
+-- drop database if exists burgers_db;
 
 create database burgers_db;
 
@@ -11,7 +11,3 @@ create table burgers (
     primary key (id)
 );
 
-
-select * from burgers;
-
-update burgers set devoured = false where devoured = true;
