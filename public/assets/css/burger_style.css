@@ -32,17 +32,17 @@ li {
 
   .notDevoured {
     float: left;
-    padding: 30px;
+    padding: 10px;
   }
 
   .addBurger {
     float: left;
-    padding: 30px;
+    padding: 10px;
   }
 
   .devouredBurgers {
 float: left;
-padding: 30px;
+padding: 10px;
   }
 
   .centerBurgers {
