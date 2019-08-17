@@ -1,0 +1,53 @@
+body {
+  margin: 50px;
+  background: url("../img/food.png");
+}
+
+.burgerImage {
+  width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+
+  .notDevoured {
+    float: left;
+    padding: 30px;
+  }
+
+  .addBurger {
+    float: left;
+    padding: 30px;
+  }
+
+  .devouredBurgers {
+float: left;
+padding: 30px;
+  }
+
+  .centerBurgers {
+    margin: auto;
+    width: 80%;
+    /* border: 3px solid #73AD21; */
+    padding: 10px;
+  }
